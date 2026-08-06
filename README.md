@@ -1,3 +1,7 @@
+### 🏆 Competitive Programming
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/itsKritikajha?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</div>
 <!-- Header Section -->
 <div align="center">
   <!-- Replace the src link below with a link to your custom banner image if you have one -->
