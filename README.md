@@ -1,36 +1,64 @@
-[![Header Banner](https://via.placeholder.com/1500x500/FFB6C1/FFFFFF?text=Kritika+Jha)](https://github.com/itsKritikajha)
-
-# Hi there, I'm Kritika Jha! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI%2FML+Undergraduate;Data+Analyst+Intern+%40+Bluestock+Fintech;Google+Student+Ambassador;Competitive+Programmer)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=itsKritikajha&color=blueviolet&style=flat&label=PROFILE+VIEWS)](https://github.com/itsKritikajha)
-
-<!-- Social Badges -->
 <div align="center">
+
+<img src="assets/banner.png" width="100%" />
+
+# Hi 👋, I'm Kritika Jha
+
+### AI/ML Engineer • Competitive Programmer • Google Student Ambassador • IEEE Member
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Competitive+Programmer;Open+Source+Contributor;Google+Student+Ambassador;Always+Learning+New+Things+🚀" />
+
+<br>
+
 <a href="https://www.linkedin.com/in/kritika-jha-60a1752b4/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://leetcode.com/u/ikritikajha/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 <a href="https://www.geeksforgeeks.org/profile/kritikajha">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+<a href="https://github.com/itsKritikajha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </div>
 
 ---
 
-### 🚀 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=itsKritikajha&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://img.shields.io/github/followers/itsKritikajha?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/itsKritikajha?style=flat-square"/>
+</p>
 
-- 🎓 **Education:** 5th-semester B.Tech in Computer Science & Engineering (AI & ML) at Galgotias University.
-- 💼 **Experience:** Currently a Data Analyst Intern at Bluestock Fintech.
-- 💡 **Community & Leadership:** Google Student Ambassador, Campus Ambassador, and active IEEE WIE volunteer. Co-organized a campus Game Night with DevCircle & Google Gemini, and coordinated the QuantCraft hackathon.
-- 🎯 **Focus:** Building AI-powered solutions, full-stack campus platforms, and optimizing data pipelines.
-- ⚔️ **Hackathons:** Actively competing and building. Developed *Agro Nova* (Smart India Hackathon) and *UniVerse* (Google TechSprint).
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering (AI & ML)
+
+💡 Passionate about Artificial Intelligence and Machine Learning.
+
+💻 Solving Data Structures & Algorithms problems on LeetCode and GeeksforGeeks.
+
+🌱 Currently learning
+
+- Machine Learning
+- Deep Learning
+- Full Stack Development
+- System Design
+
+🏆 Google Student Ambassador
+
+💙 IEEE Member
+
+⚡ Fun Fact:
+> "I love building AI solutions that solve real-world problems."
 
 ---
 
