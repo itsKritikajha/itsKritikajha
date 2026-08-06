@@ -1,10 +1,5 @@
-### 🏆 Competitive Programming
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/itsKritikajha?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-</div>
 <!-- Header Section -->
 <div align="center">
-  <!-- Replace the src link below with a link to your custom banner image if you have one -->
   <img src="https://via.placeholder.com/1500x500/FFB6C1/FFFFFF?text=Kritika+Jha" alt="Header Banner" width="100%">
   
   <h1>Hi there, I'm Kritika Jha! 👋</h1>
@@ -55,10 +50,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <p><strong>Tools & Platforms</strong></p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 ---
@@ -88,8 +79,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsKritikajha&theme=radical&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
 
-<br/>
+---
+
+### 🏆 Competitive Programming & Activity
 <div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsKritikajha&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="60%" />
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/itsKritikajha?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</div>
+<br/>
+
+<div align="center">
+  <!-- GitHub Snake Animation -->
+  <img src="https://raw.githubusercontent.com/itsKritikajha/itsKritikajha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
