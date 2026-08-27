@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7b2ff7"/>
+      <stop offset="100%" stop-color="#f107a3"/>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#g); }
+      .title { font-family: 'Fira Code', monospace; font-size: 48px; fill: white; }
+      .subtitle { font-family: 'Fira Code', monospace; font-size: 20px; fill: rgba(255,255,255,0.9); }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="300" rx="12"/>
+  <g transform="translate(60,100)">
+    <text class="title">Hi 👋, I'm Kritika Jha</text>
+    <text class="subtitle" y="40">AI/ML Engineer • Competitive Programmer • Open Source Contributor</text>
+  </g>
+</svg>
